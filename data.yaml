@@ -1,0 +1,7 @@
+path: ../cctv_vehicle_detection
+train: images/train 
+val: images/val 
+
+names:
+    0: cars
+    1: bike
