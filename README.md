@@ -70,10 +70,18 @@ This way, even if the same car appears in multiple consecutive frames, it only g
 I successfully created a vehicle detection system that meets all the original objectives. The system can accurately detect and count cars and bikes in real-time, providing a useful tool for traffic monitoring applications.
 
 ![Screenshot 2025-06-20 105647](https://github.com/user-attachments/assets/cb9030e5-472b-4beb-b33c-457b4ef072f5)
+
 ![Screenshot 2025-06-20 110117](https://github.com/user-attachments/assets/903b206d-83f1-458e-8373-807462696a88)
+
 ![Screenshot 2025-06-20 110330](https://github.com/user-attachments/assets/650d953a-30bf-4ad1-8c24-7acb6f8e17cc)
+
 ![Screenshot 2025-06-20 110403](https://github.com/user-attachments/assets/00792b29-66a8-4806-bdfa-7672260109bf)
-![Screenshot 2025-06-20 110810](https://github.com/user-attachments/assets/50122f33-753c-46f1-b358-03a74a65e8ce)
+
+![Screenshot 2025-06-20 114238](https://github.com/user-attachments/assets/9ba2bc73-4a3d-43ab-abaa-b329449fac6a)
+
+![Screenshot 2025-06-20 114335](https://github.com/user-attachments/assets/259f5f34-e543-454d-b33f-c7fe67c05c10)
+
+
 
 
 
